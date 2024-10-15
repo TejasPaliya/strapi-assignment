@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_bh_ks_bh_ks",
+  "info": {
+    "displayName": "BHKs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Number": {
+      "type": "integer"
+    },
+    "Area": {
+      "type": "integer"
+    },
+    "Price": {
+      "type": "string"
+    }
+  }
+}

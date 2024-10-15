@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_shared_mobile_thumbnails",
+  "info": {
+    "displayName": "Mobile-Thumbnail"
+  },
+  "options": {},
+  "attributes": {
+    "T1": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "T2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "T3": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
